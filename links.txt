@@ -1,0 +1,6 @@
+https://www.google.bg/search?client=opera&hs=EBF&dcr=0&ei=FYRwWtXfAY3SwQL32a7IAg&q=arduino+raspberry+pi+serial+communication&oq=arduino+raspberry+&gs_l=psy-ab.1.3.0l5j0i22i30k1l5.2308.4128.0.7782.2.2.0.0.0.0.116.211.1j1.2.0....0...1c.1.64.psy-ab..0.2.210...0i7i30k1j0i67k1.0.LN6JXlpDR7E
+
+http://www.instructables.com/id/Raspberry-Pi-Arduino-Serial-Communication/
+https://oscarliang.com/raspberry-pi-and-arduino-connected-serial-gpio/
+https://oscarliang.com/raspberry-pi-and-arduino-connected-serial-gpio/
+
